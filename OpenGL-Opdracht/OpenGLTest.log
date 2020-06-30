@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\M. De Steur\source\repos\OpenGLTest\Game.cpp(50,9): warning C4551: function call missing argument list
+C:\Users\M. De Steur\source\repos\OpenGLTest\Game.cpp(130,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGLTest.vcxproj -> C:\Users\M. De Steur\source\repos\OpenGLTest\Debug\OpenGLTest.exe
